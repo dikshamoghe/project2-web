@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
 }
-/* .first-section{
-    /* height: 100vh; */
-    /* width: 100vw; 
-} */
+
+/*  FIRST - SECTION */
+
+
 #nav-bar{
     /* border: 2px solid black; */
     padding-left: 4rem;
@@ -21,12 +21,6 @@
     height: 4rem;
     /* color: black; */
 }
-/* .menu-bar{
-    /* border: 3px solid blue; */
-    /* align-self: center; */
-    /* padding-right: 2rem; */
-
-
 #pages{
     display: flex;
     justify-content: space-between;
@@ -72,10 +66,8 @@ li{
 }
 
 
-/*  */
-/* .second-section{
-    border: 3px solid blue; 
-} */
+/*  SECOND - SECTION*/
+
 #last-h{
     padding-top: 5rem;
     padding-bottom: 4rem;
@@ -124,18 +116,19 @@ li{
     border: 1px solid rgba(73, 187, 189, 1);
 }
 
-/*  */
+
+/*  END - SECTION */
+
 .end-section{
     background-color: rgba(37, 38, 65, 1);
     /* width: 100vw; */
-    height: 40vh;
-    margin-top: 4rem;
+    height: 50vh;
+    margin-top: 8rem;
+    
 }
 .third-one{
-    padding-top: 1rem;
-    /* display: flex;
-    justify-content: center; */
-    /* align-items: center; */
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     text-align: center;
  
 }
@@ -159,7 +152,7 @@ li{
 #end-h{
     color: rgba(178, 179, 207, 1);
     font-size: 130%;
-    padding-top: 1rem;
+    padding-top: 2rem;
 
 }
 .end-b1{
@@ -184,7 +177,6 @@ li{
 
 
 }
-
 #end-p{
     color: rgba(178, 179, 207, 1);
     padding-top: 2rem;
@@ -194,7 +186,7 @@ li{
     /* border: 3px solid black; */
     width: 40%;
     margin-left: 28rem;
-    margin-top: 2rem;
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
 }
